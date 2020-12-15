@@ -1,27 +1,27 @@
-﻿<Properties StartupConfiguration="{C2BA370B-76EA-4531-AE02-E18BD13D1484}|Default">
-  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.Android FirstBuild="True" PreferredExecutionTarget="Android.LMQ925L6127876c" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarCarouselView/MainPage.xaml">
+﻿<Properties StartupConfiguration="{21DA60DD-9681-47DF-8799-351ED9AF9812}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarCarouselView/MainPage.xaml.cs">
     <Files>
-      <File FileName="CalendarCarouselView/MainPage.xaml.cs" Line="13" Column="26" />
-      <File FileName="CalendarCarouselView/Month.cs" Line="8" Column="2" />
-      <File FileName="CalendarCarouselView/MonthViewModel.cs" Line="22" Column="1" />
-      <File FileName="CalendarCarouselView/MainPage.xaml" Line="22" Column="19" />
+      <File FileName="CalendarCarouselView/CellStackLayout.cs" Line="1" Column="1" />
+      <File FileName="CalendarCarouselView/MainPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalendarCarouselView" expanded="True">
             <Node name="CalendarCarouselView" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
+            <Node name="CalendarCarouselView.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0431F661-E1F4-4ABD-B88B-50D5EFCDEBD6" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

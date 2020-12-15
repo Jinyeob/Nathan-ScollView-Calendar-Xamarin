@@ -22,7 +22,7 @@ namespace CalendarCarouselView
 
         private void setData()
         {
-            for(int i = 1; i < 31; i++)
+            for(int i = 1; i <= 12; i++)
             {
                 source.Add(new Month
                 {
