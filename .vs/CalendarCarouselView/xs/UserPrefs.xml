@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C2BA370B-76EA-4531-AE02-E18BD13D1484}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.Android FirstBuild="True" PreferredExecutionTarget="Android.LMQ925L6127876c" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarCarouselView/MainPage.xaml">
+    <Files>
+      <File FileName="CalendarCarouselView/MainPage.xaml.cs" Line="13" Column="26" />
+      <File FileName="CalendarCarouselView/Month.cs" Line="8" Column="2" />
+      <File FileName="CalendarCarouselView/MonthViewModel.cs" Line="22" Column="1" />
+      <File FileName="CalendarCarouselView/MainPage.xaml" Line="22" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalendarCarouselView" expanded="True">
+            <Node name="CalendarCarouselView" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

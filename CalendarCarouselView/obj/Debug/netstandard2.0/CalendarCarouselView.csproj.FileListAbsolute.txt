@@ -1,0 +1,14 @@
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/bin/Debug/netstandard2.0/CalendarCarouselView.deps.json
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/bin/Debug/netstandard2.0/CalendarCarouselView.dll
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/bin/Debug/netstandard2.0/ref/CalendarCarouselView.dll
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/bin/Debug/netstandard2.0/CalendarCarouselView.pdb
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/CalendarCarouselView.csprojAssemblyReference.cache
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/CalendarCarouselView.AssemblyInfoInputs.cache
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/CalendarCarouselView.AssemblyInfo.cs
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/CalendarCarouselView.csproj.CoreCompileInputs.cache
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/CalendarCarouselView.dll
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/ref/CalendarCarouselView.dll
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView/obj/Debug/netstandard2.0/CalendarCarouselView.pdb
