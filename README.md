@@ -2,4 +2,4 @@
 
 ## Custom Scrollable Calendar
 
-<img src="https://github.com/Jinyeob/NathanCalendarView-Xamarin/blob/master/video.gif"/>
+<img src="https://github.com/Jinyeob/Nathan-ScollView-Calendar-Xamarin/blob/master/video.gif"/>
