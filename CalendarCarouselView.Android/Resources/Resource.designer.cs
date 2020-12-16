@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("CalendarCarouselView.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("NathanCalendarView.Droid.Resource", IsApplication=true)]
 
 namespace CalendarCarouselView.Droid
 {

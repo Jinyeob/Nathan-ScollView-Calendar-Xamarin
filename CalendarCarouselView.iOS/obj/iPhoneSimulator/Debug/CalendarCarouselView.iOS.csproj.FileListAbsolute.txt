@@ -45,14 +45,14 @@
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/bin/iPhoneSimulator/Debug/CalendarCarouselView.pdb
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.2/actool/_PartialAppManifest.items
-/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.2/actool/_BundleResourceWithLogicalName.items
-/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.2/coremlc/_PartialAppManifest.items
-/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.2/coremlc/_BundleResourceWithLogicalName.items
-/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.2/optimized/
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/CalendarCarouselView.iOS.csprojAssemblyReference.cache
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/CalendarCarouselView.iOS.csproj.CoreCompileInputs.cache
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/CalendarCarouselView.iOS.csproj.CopyComplete
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/CalendarCarouselView.iOS.exe
 /Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/CalendarCarouselView.iOS.pdb
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/actool/_PartialAppManifest.items
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/actool/_BundleResourceWithLogicalName.items
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/coremlc/_PartialAppManifest.items
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/nathan-kim/Projects/CalendarCarouselView/CalendarCarouselView.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/

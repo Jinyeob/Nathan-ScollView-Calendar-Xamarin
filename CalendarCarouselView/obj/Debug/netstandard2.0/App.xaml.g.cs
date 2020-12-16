@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("CalendarCarouselView.App.xaml", "App.xaml", typeof(global::CalendarCarouselView.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("CalendarCarouselView.App.xaml", "App.xaml", typeof(global::NathanCalendarView.App))]
 
-namespace CalendarCarouselView {
+namespace NathanCalendarView {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]

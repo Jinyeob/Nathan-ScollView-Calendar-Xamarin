@@ -1,19 +1,21 @@
 ﻿using System;
 using Xamarin.Forms;
-namespace CalendarCarouselView
+
+namespace NathanCalendarView
 {
     public class CellStackLayout : StackLayout
     {
         public DateTime dateTime;
+        public bool isSelected = false;
+       // public Label selectedDot;
 
         public CellStackLayout()
         {
+            Spacing = 0;
             Padding = 0;
             Margin = 0;
             HeightRequest = 40;
             WidthRequest = 40;
-            HorizontalOptions = LayoutOptions.Start;
-            VerticalOptions = LayoutOptions.Start;
         }
 
         public DateTime DateTimeInfo
@@ -24,6 +26,13 @@ namespace CalendarCarouselView
                 dateTime = value;
             }
         }
-
+        public bool IsSelected
+        {
+            get { return IsSelected; }
+            set
+            {
+                isSelected = value;
+            }
+        }
     }
 }

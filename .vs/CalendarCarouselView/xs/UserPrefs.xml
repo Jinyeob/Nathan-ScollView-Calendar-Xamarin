@@ -1,18 +1,20 @@
 ﻿<Properties StartupConfiguration="{21DA60DD-9681-47DF-8799-351ED9AF9812}|Default">
   <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarCarouselView/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarCarouselView/DateGrid.cs">
     <Files>
-      <File FileName="CalendarCarouselView/CellStackLayout.cs" Line="1" Column="1" />
-      <File FileName="CalendarCarouselView/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CalendarCarouselView/DateGrid.cs" Line="10" Column="27" />
+      <File FileName="CalendarCarouselView/MainPage.cs" Line="32" Column="82" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalendarCarouselView" expanded="True">
             <Node name="CalendarCarouselView" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DateGrid.cs" selected="True" />
+            </Node>
+            <Node name="CalendarCarouselView.Android" expanded="True">
+              <Node name="Resources" expanded="True" />
             </Node>
             <Node name="CalendarCarouselView.iOS" expanded="True" />
           </Node>
@@ -20,7 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0431F661-E1F4-4ABD-B88B-50D5EFCDEBD6" />
+  <MonoDevelop.Ide.ItemProperties.CalendarCarouselView.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.98B20888-2A99-4DC3-8AFE-74DC0E4F4B9A" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
